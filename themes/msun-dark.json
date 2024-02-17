@@ -139,6 +139,7 @@
         "players": [
           {
             "cursor": "#ffffff",
+            "background": "#7fb4f699",
             "selection": "#7fb4f699"
           },
           {
