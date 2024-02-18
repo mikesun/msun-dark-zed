@@ -2,10 +2,13 @@
 
 Minimalist dark theme for Zed loosely based on the [rsms Sublime Text theme](https://github.com/rsms/sublime-theme).
 
-![msun-dark](./screenshot.png)
+## msun-dark
+![msun-dark](./msun-dark-screenshot.png)
 
-My Zed `settings.json`:
+## msun-dark-6000k
+![msun-dark](./msun-dark-6000k-screenshot.png)
 
+## Zed `settings.json`
 ```
 {
   "theme": "msun-dark",
