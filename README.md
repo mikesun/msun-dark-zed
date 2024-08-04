@@ -5,27 +5,23 @@ Minimalist dark theme for Zed loosely based on the [rsms Sublime Text theme](htt
 ## msun-dark
 ![msun-dark](./msun-dark-screenshot.png)
 
-## msun-dark-6000k
-![msun-dark](./msun-dark-6000k-screenshot.png)
-
 ## msun-dark-twilight
 ![msun-dark](./msun-dark-twilight-screenshot.png)
 
 ## Zed `settings.json`
-```
+```json
 {
   "theme": "msun-dark",
   "buffer_font_family": "Berkeley Mono",
-  "buffer_font_size": 12.6,
+  "buffer_font_size": 12.8,
   "buffer_font_features": {
-    "liga": false,
     "calt": false
   },
   "buffer_line_height": {
     "custom": 1.4
   },
   "ui_font_family": "System Font",
-  "ui_font_size": 12.7,
+  "ui_font_size": 13.8,
   "show_wrap_guides": false,
   "scrollbar": {
     "show": "system",
@@ -34,12 +30,12 @@ Minimalist dark theme for Zed loosely based on the [rsms Sublime Text theme](htt
     "symbols_selections": false
   },
   "project_panel": {
-    "default_width": 240,
+    "default_width": 200,
     "dock": "left",
     "file_icons": false,
     "folder_icons": false,
     "git_status": false,
-    "indent_size": 16,
+    "indent_size": 10,
     "auto_reveal_entries": true
   },
   "git": {
@@ -47,10 +43,10 @@ Minimalist dark theme for Zed loosely based on the [rsms Sublime Text theme](htt
   },
   "terminal": {
     "font_family": "Berkeley Mono",
-    "font_size": 12,
+    "font_size": 12.5,
     "blinking": "terminal_controlled",
     "line_height": {
-      "custom": 1.3
+      "custom": 1.2
     }
   }
 }
