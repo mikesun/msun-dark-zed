@@ -5,6 +5,12 @@ Minimalist dark themes for Zed inspired by the [rsms Sublime Text theme](https:/
 ## msun-dark
 ![msun-dark](./msun-dark-screenshot.png)
 
+## msun-dark-netherite
+![msun-dark](./msun-dark-netherite-screenshot.png)
+
+## msun-dark-elytra
+![msun-dark](./msun-dark-elytra-screenshot.png)
+
 ## msun-dark-aurora
 ![msun-dark](./msun-dark-aurora-screenshot.png)
 
