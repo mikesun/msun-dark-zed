@@ -1,6 +1,6 @@
 id = "msun-dark"
 name = "msun-dark"
-version = "1.0.0"
+version = "1.0.1"
 schema_version = 1
 authors = ["Mike Sun <mike@msun.io>"]
 description = "Minimalist dark themes"
