@@ -14,7 +14,7 @@ Minimalist dark themes for Zed inspired by the [rsms Sublime Text theme](https:/
 ## msun-dark-aurora
 ![msun-dark](./screenshots/msun-dark-aurora.png)
 
-## msun-dark-halycon
+## msun-dark-halcyon
 ![msun-dark](./screenshots/msun-dark-halcyon.png)
 
 ## msun-dark-6000k
