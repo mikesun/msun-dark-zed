@@ -40,7 +40,7 @@
 				"editor.active_wrap_guide": null,
 				"editor.document_highlight.read_background": "#00000000",
 				"editor.document_highlight.write_background": null,
-				"editor.document_highlight.bracket_background": "#d96f66",
+				"editor.document_highlight.bracket_background": "#FFB5C0C7",
 				"element.active": "#2a2a2c",
 				"element.background": "#252527",
 				"element.disabled": null,
@@ -141,7 +141,7 @@
 					{
 						"cursor": "#ffffff",
 						"background": "#00000ff",
-						"selection": "#f98f86"
+						"selection": "#FFFFB3EA"
 					},
 					{
 						"cursor": "#39bae5ff",
@@ -201,7 +201,7 @@
 						"font_weight": null
 					},
 					"constructor": {
-						"color": "#c8fbe1",
+						"color": "#ccffe6",
 						"font_style": null,
 						"font_weight": null
 					},
@@ -245,17 +245,17 @@
 						"font_weight": null
 					},
 					"number": {
-						"color": "#c8fbe1",
+						"color": "#ccffe6",
 						"font_style": null,
 						"font_weight": null
 					},
 					"operator": {
-						"color": "#ffffff",
+						"color": "#f9e2af",
 						"font_style": null,
 						"font_weight": null
 					},
 					"property": {
-						"color": "#D8D8FC",
+						"color": "#D8D8FF",
 						"font_style": null,
 						"font_weight": null
 					},
@@ -265,17 +265,17 @@
 						"font_weight": null
 					},
 					"string": {
-						"color": "#c8fbe1",
+						"color": "#ccffe6",
 						"font_style": null,
 						"font_weight": null
 					},
 					"string.escape": {
-						"color": "#c8fbe1",
+						"color": "#ccffe6",
 						"font_style": null,
 						"font_weight": null
 					},
 					"string.regex": {
-						"color": "#c8fbe1",
+						"color": "#ccffe6",
 						"font_style": null,
 						"font_weight": null
 					},
@@ -290,22 +290,22 @@
 						"font_weight": null
 					},
 					"tag": {
-						"color": "#c8fbe1",
+						"color": "#ccffe6",
 						"font_style": null,
 						"font_weight": null
 					},
 					"text.literal": {
-						"color": "#c8fbe1",
+						"color": "#ccffe6",
 						"font_style": null,
 						"font_weight": null
 					},
 					"title": {
-						"color": "#c8fbe1",
+						"color": "#ccffe6",
 						"font_style": null,
 						"font_weight": 700
 					},
 					"type": {
-						"color": "#D8D8FC",
+						"color": "#D8D8FF",
 						"font_weight": null
 					}
 				}

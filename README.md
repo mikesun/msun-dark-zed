@@ -1,6 +1,6 @@
 # msun-dark-zed
 
-Minimalist dark themes for Zed inspired by the [rsms Sublime Text theme](https://github.com/rsms/sublime-theme).
+Minimalist dark themes for Zed. 
 
 ## msun-dark
 ![msun-dark](./screenshots/msun-dark.png)
@@ -32,10 +32,10 @@ Zed `settings.json`
  	"experimental.theme_overrides": {
 		"syntax": {
 			"function": {
-				"font_weight": 700
+				"font_weight": 500
 			},
 			"operator": {
-				"font_weight": 800
+				"font_weight": 500
 			},
 			"type": {
 				"font_weight": null

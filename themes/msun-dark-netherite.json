@@ -40,7 +40,7 @@
 				"editor.active_wrap_guide": null,
 				"editor.document_highlight.read_background": "#00000000",
 				"editor.document_highlight.write_background": null,
-				"editor.document_highlight.bracket_background": "#d96f66",
+				"editor.document_highlight.bracket_background": "#FFB5C0C7",
 				"element.active": "#262628",
 				"element.background": "#202022",
 				"element.disabled": null,
@@ -125,7 +125,7 @@
 				"terminal.ansi.white": "#fdfdfd",
 				"terminal.ansi.bright_white": "#ffffff",
 				"terminal.ansi.dim_white": "#fafafa",
-				"text": "#fffff",
+				"text": "#ffffff",
 				"text.accent": "#c4e7ff",
 				"text.disabled": "#707072",
 				"text.muted": "#cccccc",
@@ -141,7 +141,7 @@
 					{
 						"cursor": "#ffffff",
 						"background": "#00000ff",
-						"selection": "#f98f86"
+						"selection": "#FFFFB3EA"
 					},
 					{
 						"cursor": "#39bae5ff",
@@ -250,7 +250,7 @@
 						"font_weight": null
 					},
 					"operator": {
-						"color": "#ffffff",
+						"color": "#f9e2af",
 						"font_style": null,
 						"font_weight": null
 					},
