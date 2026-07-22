@@ -20,7 +20,7 @@
 				"conflict": "#f98f86",
 				"conflict.background": null,
 				"conflict.border": null,
-				"deleted": "#00000000",
+				"deleted": null,
 				"deleted.background": null,
 				"deleted.border": null,
 				"error": "#8fc4f6",

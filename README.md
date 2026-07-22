@@ -5,6 +5,9 @@ Minimalist dark themes for Zed.
 ## msun-dark
 ![msun-dark](./screenshots/msun-dark.png)
 
+## msun-dark-nebula
+![msun-dark](./screenshots/msun-dark-nebula.png)
+
 ## msun-dark-netherite
 ![msun-dark](./screenshots/msun-dark-netherite.png)
 
@@ -32,13 +35,10 @@ Zed `settings.json`
  	"experimental.theme_overrides": {
 		"syntax": {
 			"function": {
-				"font_weight": 500
+				"font_weight": 700
 			},
 			"operator": {
-				"font_weight": 500
-			},
-			"type": {
-				"font_weight": null
+				"font_weight": 700
 			}
 		}
 	}

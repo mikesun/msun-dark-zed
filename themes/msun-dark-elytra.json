@@ -1,10 +1,10 @@
 {
 	"$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-	"name": "msun-dark-dev-elytra",
+	"name": "msun-dark",
 	"author": "Mike Sun",
 	"themes": [
 		{
-			"name": "msun-dark-dev-elytra",
+			"name": "msun-dark-elytra",
 			"appearance": "dark",
 			"style": {
 				"background": "#2a2a2c",
@@ -40,7 +40,7 @@
 				"editor.active_wrap_guide": null,
 				"editor.document_highlight.read_background": "#00000000",
 				"editor.document_highlight.write_background": null,
-				"editor.document_highlight.bracket_background": "#FFB5C0C7",
+				"editor.document_highlight.bracket_background": "#55C7A5BF",
 				"element.active": "#2a2a2c",
 				"element.background": "#252527",
 				"element.disabled": null,
